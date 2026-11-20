@@ -2,7 +2,7 @@
 
 A small Android app that looks up a Ripple name and can show a QR code. The Android project is called **RippleCheckout** (package `com.ripplecheckout`).
 
-> **Status: dormant since July 2014.** Written in one Saturday afternoon (2014-07-12) during Steven's Ripple Labs era, as a first sketch of a "scan to pay a Ripple name" idea. There are two commits and it was never finished. It uses a 2014 Android toolchain and has not been built or run in this review.
+> **Status: dormant since July 2014.** Written in one Saturday afternoon (2014-07-12) during Steven's Ripple Labs era. The project name suggests a first sketch of a "scan to pay a Ripple name" idea, but the repo does not say so. There are two commits and it was never finished. It uses a 2014 Android toolchain and has not been built or run in this review.
 
 ## What it does
 
@@ -23,7 +23,7 @@ It was an Android Studio (early beta) project, so the simplest route is to open 
 
 ## Usage
 
-Launch the app, type a Ripple name, tap the lookup button, then tap the QR button to see the QR screen.
+Launch the app, type a Ripple name, tap **Search**, then tap **Get a QR Code** to see the QR screen.
 
 ## Config
 
@@ -41,4 +41,4 @@ Dormant, unbuilt. See [docs/STATUS.md](docs/STATUS.md).
 
 ## License
 
-No license has been declared. All rights reserved by default until Steven decides. The bundled OnBarcode jar is third-party software with its own terms.
+No license has been declared. All rights reserved by default until Steven decides. The bundled OnBarcode jar is third-party software. Its license terms are not in the repo and are unknown.
